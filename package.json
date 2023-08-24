@@ -1,5 +1,9 @@
 {
   "name": "gen-svg",
+  "version": "1.0.0",
+  "description": "Module 10 Challenge",
+  "author": "Sabrina Doerfler",
+  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
